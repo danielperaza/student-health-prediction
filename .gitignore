@@ -221,7 +221,3 @@ __marimo__/
 # Data files can be downloaded from Kaggle anyways and this way the repo won't become too big
 data/*
 !data/.gitkeep
-
-# Ignore trained model artifacts (regenerable, too large for git) but keep the directory
-embeddings/*
-!embeddings/.gitkeep
